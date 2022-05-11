@@ -1,5 +1,4 @@
 # Growing-box
-legacy
 
 
 초 6때 처음 만든 모바일 게임
